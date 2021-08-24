@@ -8,7 +8,7 @@ A Telegram Bot Written In Python To Upload Medias To telegra.ph
 
 ###  ⚡️ Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/TelegraphBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SDInifinity/TelegraphBot)
 
 
 #### For Queries and support, contact [SDBOTs](https://telegram.dog/SDBOTz)
