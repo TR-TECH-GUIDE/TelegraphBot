@@ -85,7 +85,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('⚡️ Our Channel 📣', url='http://telegram.me/SDBOTs_Inifinity'),
+        InlineKeyboardButton('⚡️ Our Channel 📣', url='https://t.me/EpicBotsSl'),
+        InlineKeyboardButton('⚡️ Developer ', url='https://t.me/xMalitha'),
         InlineKeyboardButton('📋 Source Code 📋', url='https://github.com/Sadew451/TelegraphUploader')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
@@ -97,7 +98,7 @@ async def home(client, message):
         
 𝚂𝚒𝚖𝚙𝚕𝚢 𝚜𝚎𝚗𝚍 𝚖𝚎 𝚙𝚑𝚘𝚝𝚘, 𝚟𝚒𝚍𝚎𝚘 𝚘𝚛 𝚐𝚒𝚏 𝚝𝚘 𝚞𝚙𝚕𝚘𝚊𝚍 𝚝𝚘 𝚃𝚎𝚕𝚎𝚐𝚛𝚊.𝚙𝚑
         
-𝙈𝙖𝙙𝙚 𝙒𝙞𝙩𝙝 𝙇𝙤𝙫𝙚 𝘽𝙮 ❤️ @SDBotsz</b>""",
+   𝙈𝙖𝙙𝙚 𝘽𝙮 ❤️ @xMalitha</b>""",
         reply_markup=reply_markup,
         parse_mode="html",
         reply_to_message_id=message.message_id
@@ -110,7 +111,7 @@ async def help(client, message):
         InlineKeyboardButton('Close 🔐', callback_data='close')
     ],
     [
-        InlineKeyboardButton('⚡️ Our Channel 📣', url='http://telegram.me/SDBOTs_Inifinity')
+        InlineKeyboardButton('⚡️ Our Channel 📣', url='https://t.me/EpicBotsSl')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await SDBots.send_message(
